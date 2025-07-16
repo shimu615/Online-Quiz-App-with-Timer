@@ -39,7 +39,7 @@ Follow the steps below to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/online-quiz-app-with-timer.git
+   git clone https://github.com/shimu615/Online-Quiz-App-With-Timer.git
 2.Move project to your XAMPP htdocs folder
 C:/xampp/htdocs/online-quiz-app-with-timer
 
@@ -67,5 +67,6 @@ https://quizapp-timer.000webhostapp.com
 📩 Contact
 For any questions, reach out to:
 📧 shimub615@gmail.com
+Github link:github.com/shimu615
 
 Made with ❤️ by Shimu Begum
